@@ -1,34 +1,22 @@
 [
   {
-    "Date": "Monday",
-    "Temp": "32"
+    "Flavor": "Chocolate",
+    "Vote": "107"
   },
   {
-    "Date": "Tuesday",
-    "Temp": "28"
+    "Flavor": "Vanilla",
+    "Vote": "87"
   },
   {
-    "Date": "Wednesday",
-    "Temp": "33"
+    "Flavor": "Strawberry",
+    "Vote": "98"
   },
   {
-    "Date": "Thusday",
-    "Temp": "31"
+    "Flavor": "Cookies & Cream",
+    "Vote": "257"
   },
   {
-    "Date": "Friday",
-    "Temp": "27"
-  },
-  {
-    "Date": "Friday",
-    "Temp": "31"
-  },
-  {
-    "Date": "Saturday",
-    "Temp": "10"
-  },
-  {
-    "Date": "Sunday",
-    "Temp": "45"
+    "Flavor": "Peach",
+    "Vote": "105"
   }
 ]
